@@ -9,4 +9,5 @@ In this project, we will find the main causes of stress and see how it changes b
 - Sana Alotaibi
 - Afyya Abdullah Alharbi
 - Jumana Jumaa Shati
-- Lamya almania 
+- Lamya almania
+- Renad Almughamis
